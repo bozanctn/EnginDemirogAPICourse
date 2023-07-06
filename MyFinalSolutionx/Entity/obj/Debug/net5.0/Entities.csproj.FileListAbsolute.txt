@@ -1,0 +1,15 @@
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\bin\Debug\net5.0\Entities.deps.json
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\bin\Debug\net5.0\Entities.dll
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\bin\Debug\net5.0\Entities.pdb
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\Entities.dll
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\refint\Entities.dll
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\Entities.pdb
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\bin\Debug\net5.0\Core.dll
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\bin\Debug\net5.0\Core.pdb
+C:\Users\ozan_cetin\source\repos\MyFinalSolutionx\Entity\obj\Debug\net5.0\Entities.csproj.CopyComplete
